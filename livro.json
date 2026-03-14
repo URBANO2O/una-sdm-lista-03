@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "titulo": "Sistemas Distribuídos",
+  "autor": "Andrew S. Tanenbaum",
+  "edicao": 4,
+  "anoPublicacao": 2017,
+  "editora": "Pearson",
+  "numeroPaginas": 720,
+  "categoria": "Computação",
+  "isbn": "9788576051428",
+  "idioma": "Português",
+  "disponivel": true
+}
